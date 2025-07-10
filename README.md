@@ -7,7 +7,7 @@ DevOps Learner
 I love cloud!
 
 * 🌍  I'm based in India
-* ✉️  You can contact me at [vastavnissanswain2000@gmail.com](mailto:vastavnissanswain2000@gmail.com)
+* ✉️  You can contact me at [https://x.com/NissanSwain]
 * 🚀  I'm currently working on [TerraformwithAzure](http://github.com/VastavNissan/TerraformTalesInAzure)
 * 🧠  I'm learning Terraform, Kubernetes, AWS
 * 🤝  I'm open to collaborating on Terraform and Kubernetes based projects
